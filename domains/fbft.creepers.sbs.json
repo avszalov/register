@@ -7,18 +7,17 @@
     "owner": {
         "github_user": "https://github.com/avszalov",
         "email": "avzalovgleb4@gmail.com",
-        "discord": "none"
     },
     "record": {
-        "A": ["0.0.0.0"],
+        "A": ["freebfreet.aternos.me"],
         "SRV": [
             {
                 "content": "_minecraft._tcp",
                 "priority": 10,
                 "weight": 60,
                 "ttl": "auto",
-                "port": 25565,
-                "target": "fbft.creepers.sbs"
+                "port": 52615,
+                "target": "freebfreet.aternos.me"
             }
         ]
     },
